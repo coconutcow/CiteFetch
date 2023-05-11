@@ -20,7 +20,7 @@ python
 ```python
 from get_citation import get_citation_from_doi  # assuming you saved the script as get_citation.py
 
-print(get_citation_from_doi('10.1145/3290605.3300764'))  # replace with your DOI
+print(get_citation_from_doi('10.3389/fpsyg.2019.02441'))  # replace with your DOI
 ```
 
 Replace `'10.3389/fpsyg.2019.02441'` with the DOI of the paper you want to get the citation for.
