@@ -33,7 +33,7 @@ Output
 
 The script will print out the citation in APA style, for example:
 
-```sh
+```
 D. Ma, L. Cao, N. Wang, D. He, and T. D. Nadeem (2019). A Survey on Open Information Extraction. 2019 20th International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT). https://doi.org/10.1145/3290605.3300764
 ```
 
