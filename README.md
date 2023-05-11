@@ -23,14 +23,14 @@ from get_citation import get_citation_from_doi  # assuming you saved the script 
 print(get_citation_from_doi('10.1145/3290605.3300764'))  # replace with your DOI
 ```
 
-Replace `'10.1145/3290605.3300764'` with the DOI of the paper you want to get the citation for.
+Replace `'10.3389/fpsyg.2019.02441'` with the DOI of the paper you want to get the citation for.
 
 ## Output
 
 The script will print out the citation in APA style, for example:
 
 ```
-D. Ma, L. Cao, N. Wang, D. He, and T. D. Nadeem (2019). A Survey on Open Information Extraction. 2019 20th International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT). https://doi.org/10.1145/3290605.3300764
+Alexandre Coste, Benoît G. Bardy, Ludovic Marin (No date listed). Towards an Embodied Signature of Improvisation Skills. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2019.02441
 ```
 
 ## Limitations
