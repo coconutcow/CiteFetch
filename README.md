@@ -35,7 +35,7 @@ Alexandre Coste, Benoît G. Bardy, Ludovic Marin (No date listed). Towards an Em
 
 ## Limitations
 
-The formatting here is quite simple and may not handle all edge cases. There can be many edge cases in citation formatting (like handling multiple authors, editors, different types of publications, etc.) that are not covered by this simple script.
+The formatting here is quite simple and may not handle all edge cases. There can be many edge cases in citation formatting (like handling multiple authors, editors, different types of publications, etc.) that are not covered by this script.
 
 ## Disclaimer
 
